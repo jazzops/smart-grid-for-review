@@ -1,0 +1,106 @@
+Inteligentne liczniki
+Inteligentne urządzenia
+Rozproszone zasoby energetyczne (DER)
+Technologie reagowania na popyt
+Zaawansowana infrastruktura pomiarowa (AMI)
+Systemy magazynowania energii
+Technologie automatyzacji sieci
+Systemy monitorowania i sterowania w czasie rzeczywistym
+Sieci komunikacyjne
+
+
+
+Jasne, rozumiem. Oto uzupełniona tabela z krótkimi wyjaśnieniami każdego z pojęć, dodanymi do kolumny "Wyjaśnienie":
+
+**Nomenklatura**
+
+**Skróty**
+
+| Skrót | Rozwinięcie                             | Wyjaśnienie                                     |
+| :---- | :------------------------------------ | :---------------------------------------------- |
+| AI    | Sztuczna inteligencja                  | Dziedzina informatyki zajmująca się tworzeniem inteligentnych systemów.  |
+| ACO   | Optymalizacja kolonii mrówek          | Algorytm optymalizacji inspirowany zachowaniem mrówek w poszukiwaniu pożywienia. |
+| ABC   | Algorytm sztucznej pszczoły          | Algorytm optymalizacji inspirowany poszukiwaniem miodu przez pszczoły. |
+| AEP   | Roczna produkcja energii              | Całkowita ilość energii wyprodukowanej w ciągu roku. |
+| BES   | Bateryjny magazyn energii            | System magazynowania energii elektrycznej za pomocą baterii. |
+| DR    | Reagowanie na zapotrzebowanie         | Strategia zarządzania popytem na energię w celu stabilizacji sieci. |
+| EMS   | System zarządzania energią            | System monitorujący i kontrolujący przepływ energii w systemie. |
+| ESS   | System magazynowania energii          | Urządzenie lub system przechowujący energię elektryczną.  |
+| EV    | Pojazd elektryczny                    | Pojazd napędzany silnikiem elektrycznym. |
+| GA    | Algorytm genetyczny                   | Algorytm optymalizacji inspirowany ewolucją biologiczną.  |
+| HEMS  | Domowy system zarządzania energią    | System zarządzający zużyciem energii w domu. |
+| HVAC  | Ogrzewanie, wentylacja i klimatyzacja  | System zapewniający komfort termiczny w budynkach. |
+| GA–PSO | Optymalizacja rojem cząstek algorytmu genetycznego | Połączenie dwóch algorytmów optymalizacyjnych. |
+| LCoE  | Uśredniony koszt energii               | Całkowity koszt wytworzenia jednostki energii, uwzględniający nakłady inwestycyjne i koszty operacyjne. |
+| LOT   | Technika optymalizacji Lapunowa      | Metoda analizy stabilności systemów nieliniowych, wykorzystana w optymalizacji dynamicznej.  |
+| MINLP | Programowanie nieliniowe z mieszanymi liczbami całkowitymi | Metoda optymalizacji matematycznej z zmiennymi ciągłymi i dyskretnymi.  |
+| MILP  | Programowanie liniowe z mieszanymi liczbami całkowitymi  | Metoda optymalizacji matematycznej z liniowymi ograniczeniami i zmiennymi ciągłymi i dyskretnymi. |
+| NRFNA | Znormalizowana neuronowa adaptacyjna oparta na rozumowaniu rozmytym | Hybrydowa technika modelowania łącząca sieci neuronowe i logikę rozmytą. |
+| NMPC  | Nieliniowy regulator predykcyjny modelu | Metoda sterowania uwzględniająca prognozę przyszłego zachowania systemu.  |
+| PAR   | Stosunek wartości szczytowej do średniej| Miara zmienności obciążenia energetycznego. |
+| PV    | Fotowoltaiczne                       | Technologia konwersji energii słonecznej na elektryczną za pomocą paneli słonecznych. |
+| PSO   | Optymalizacja rojem cząstek          | Algorytm optymalizacji inspirowany zachowaniem roju ptaków. |
+| PCC   | Punkt wspólnego przyłączenia         | Miejsce przyłączenia instalacji odbiorcy do sieci energetycznej.  |
+| PHEVs | Hybrydowe pojazdy elektryczne typu plug-in | Pojazdy elektryczne z możliwością ładowania z zewnętrznego źródła.  |
+| PG    | Szczytowy generator energii          | Generator uruchamiany w okresach szczytowego zapotrzebowania na energię.  |
+| RES   | Odnawialne źródła energii           | Źródła energii, których zasoby są naturalnie uzupełniane (np. słońce, wiatr). |
+| RT    | Czas rzeczywisty                      | Działanie lub proces zachodzący na bieżąco, bez opóźnienia. |
+| TCLs  | Obciążenia sterowane termostatycznie  | Urządzenia elektryczne z wbudowanymi termostatami, które włączają i wyłączają się, aby utrzymać zadaną temperaturę. |
+
+**Stałe**
+
+| Stała     | Wyjaśnienie                                                     |
+| :-------- | :------------------------------------------------------------- |
+| A         | Przewodność cieplna w ogólności (kW/°F)                        | Miara zdolności materiału do przewodzenia ciepła. |
+| Cpv       | Całkowita powierzchnia naświetlenia paneli PV (m²)            | Powierzchnia panelu słonecznego na którą pada światło. |
+| Dmax      | Maksymalne opóźnienie kolejkowania Qt (godz.)                     |  Maksymalny czas oczekiwania w kolejce na obsługę. |
+| emax      | Maksymalna moc systemu HVAC (kW)                                |  Górna granica mocy pobieranej przez system HVAC. |
+| ε         | Współczynnik bezwładności                                       | Miara odporności systemu na zmiany stanu. |
+| N         | Całkowita liczba dostępnych przedziałów czasowych              | Ilość przedziałów czasowych w analizowanym horyzoncie. |
+| η         | Sprawność konwersji termicznej (ogrzewania)                     | Procent energii zamienionej na ciepło. |
+| R         | Tolerowane opóźnienie ładowania pojazdu elektrycznego (godz.)   | Maksymalny czas opóźnienia ładowania EV. |
+| Tmin      | Dolna granica zakresu komfortu (°C)                             | Najniższa temperatura komfortowa w pomieszczeniu. |
+| Tmax      | Górna granica zakresu komfortu (°C)                             | Najwyższa temperatura komfortowa w pomieszczeniu. |
+| Toutmin   | Minimalna temperatura zewnętrzna (°C)                         | Najniższa temperatura na zewnątrz. |
+| Toutmax   | Maksymalna temperatura zewnętrzna (°C)                         | Najwyższa temperatura na zewnątrz.  |
+| τ         | Czas trwania przedziału czasowego (godz.)                       | Długość jednego przedziału czasowego. |
+| ucmax     | Maksymalna moc ładowania ESS (kW)                              | Górna granica mocy, z jaką można ładować ESS. |
+| udmax     | Maksymalna moc rozładowania ESS (kW)                            | Górna granica mocy, z jaką można rozładowywać ESS. |
+| vmax      | Maksymalna moc ładowania EV (kW)                                | Górna granica mocy ładowania EV. |
+| ω         | Stała czasowa systemu (godz.)                                  |  Miara szybkości reakcji systemu na zmiany. |
+| θpv       | Efektywność generacji PV                                         | Miara sprawności konwersji światła słonecznego na energię elektryczną. |
+| γ         | Współczynnik kosztów cieplnych (RMB/(°F)²)                 | Koszt zmiany temperatury w systemie. |
+
+**Indeksy**
+
+| Indeks | Wyjaśnienie                       |
+| :----- | :------------------------------- |
+| t      | Indeks pojedynczego przedziału czasowego | Wskazuje na konkretny przedział czasu w analizie. |
+
+**Zmienne**
+
+| Zmienna | Wyjaśnienie                                                 |
+| :------ | :---------------------------------------------------------- |
+| at      | Wskaźnik przybycia do kolejki Qt (kW)                        |  Wartość strumienia energii dodawanej do kolejki. |
+| Bt      | Koszt zakupu energii elektrycznej (RMB/kWh)                | Cena zakupu energii z sieci w danym przedziale czasu. |
+| et      | Moc wejściowa HVAC w przedziale czasowym t (kW)              | Moc pobierana przez system HVAC w danym przedziale czasowym. |
+| Gt      | Poziom zmagazynowanej energii w ESS (kWh)                     | Ilość energii zgromadzonej w ESS w danym momencie. |
+| gt      | Kupno/sprzedaż energii w inteligentnym domu (kW)          | Ilość energii kupionej lub sprzedanej przez inteligentny dom.  |
+| Ht      | Wirtualna kolejka temperatury wewnętrznej (°F)              | Reprezentacja wirtualna do śledzenia temperatury w pomieszczeniu. |
+| Kt      | Wirtualna kolejka kontroli ESS (kWh)                         | Reprezentacja wirtualna do kontroli ESS. |
+| Lt      | Funkcja Lapunowa                                             | Funkcja używana do analizy stabilności systemu dynamicznego. |
+| pwtt    | Moc wyjściowa generacji wiatrowej (MW)                         | Ilość energii elektrycznej wyprodukowanej przez elektrownię wiatrową. |
+| ρt      | Natężenie promieniowania słonecznego (W/m²)                  | Ilość energii słonecznej docierającej do powierzchni. |
+| Qt      | Kolejka energii dla EV (kW)                                  | Reprezentacja wirtualna kolejki do ładowania pojazdów elektrycznych. |
+| rt      | Moc wyjściowa generacji paneli PV (kW)                        | Ilość energii wyprodukowanej przez panele fotowoltaiczne. |
+| St      | Koszt sprzedaży energii elektrycznej (RMB/kWh)              | Cena sprzedaży energii do sieci w danym przedziale czasu. |
+| Tt      | Temperatura w pomieszczeniu (°C)                              | Aktualna temperatura wewnątrz budynku. |
+| Toutt   | Temperatura zewnętrzna (°C)                                  | Aktualna temperatura na zewnątrz budynku. |
+| Treft+1 | Preferowana temperatura komfortu (°C)                    | Optymalna temperatura w pomieszczeniu, do której dąży system. |
+| xt      | Wskaźnik obsługi kolejki Qt (kW)                            | Szybkość z jaką są obsługiwane żądania w kolejce.  |
+| yt      | Moc ładowania/rozładowania ESS (kW)                           | Moc, z jaką system ESS ładuje lub rozładowuje energię.  |
+| Zt      | Wirtualna kolejka opóźnienia ładowania EV (sloty)            | Wirtualna kolejka reprezentująca opóźnienie w procesie ładowania EV. |
+| Πt+1   | Stan zajętości domu w przedziale czasowym t+1               | Informacja o tym, czy dom jest zajęty w następnym przedziale czasowym.  |
+| Φ1,t    | Koszt energii (RMB)                                          | Koszt zużytej energii w danym przedziale czasowym. |
+| Φ2,t    | Koszt dyskomfortu termicznego w przedziale czasowym t+1 (RMB)| Koszt związany z odchyleniem temperatury od wartości komfortowej w kolejnym przedziale czasu. |
+
