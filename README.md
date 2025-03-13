@@ -10,6 +10,8 @@
 
 ## Uruchomienie projektu
 
+online web preview : https://smart-grid-gems-37-29.lovable.app/
+
 ### Wymagania wstępne
 - Node.js (zalecana wersja 16 lub nowsza)
 - npm (menedżer pakietów Node.js)
